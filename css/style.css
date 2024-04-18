@@ -1,0 +1,82 @@
+.header-container {
+    background-color: black;
+    padding: 10px;
+    
+}
+
+header{
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+h1{
+
+    font-style: italic;
+    color:white;
+    text-align: center;
+    
+}
+
+body{
+
+    background-image: url(/images/download.png) ;
+}
+
+nav{
+    background-color: black;
+    position: sticky;
+    top: 150px;
+    letter-spacing: 1px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    padding: 0.01%;
+    
+}
+
+.navwords{
+    
+}
+nav a {
+    margin-right: 15px;
+    
+}
+
+.vitrine{
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 20%;
+}
+
+.guitarinfo{
+    background-color: rgb(255, 255, 255);
+    width: auto;
+    height: auto;
+    
+    
+}
+
+.nominstrument{
+
+    font-style: italic;
+    word-wrap: break-word;
+    
+
+}
+
+.prix{
+ text-align: center;
+ font-size: larger;
+
+}
+
+.guitarout{
+    margin-left: 150%;
+    
+}
+
