@@ -8,7 +8,7 @@ header{
 
 }
 
-a{
+.or{
     text-decoration: none;
     color: white;
     
@@ -40,6 +40,7 @@ nav{
 }
 
 .navwords{
+    text-align: center;
     
 }
 nav a {
@@ -51,6 +52,11 @@ nav a {
     margin-left: 10%;
     margin-right: 10%;
     width: 20%;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    
+
 }
 
 .guitarinfo{
@@ -65,18 +71,15 @@ nav a {
 
     font-style: italic;
     word-wrap: break-word;
-    
+    text-align: center;
 
 }
 
 .prix{
- text-align: center;
- font-size: larger;
+     text-align: center;
+     font-size: larger;
 
 }
-
-.guitarout{
-    margin-left: 150%;
-    
+.guitar{
+     padding: 0 55px 0 55px;s
 }
-
